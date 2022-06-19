@@ -1,5 +1,4 @@
-# mytest 1.0
-
+# mytest
 Simple GTest example, compiled from basic tutorials (below).
 
 ## Getting Started
