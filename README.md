@@ -1,5 +1,4 @@
-# mytest 1.0 ![Build Status: Linux](#)
-]
+# mytest 1.0
 
 Simple GTest example, compiled from basic tutorials (below).
 
